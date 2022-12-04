@@ -5,9 +5,6 @@ import os
 import random
 import re
 import sys
-
-
-
 def pageCount(n, p):
     
     if(p%2==0):
